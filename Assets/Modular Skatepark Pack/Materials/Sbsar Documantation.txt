@@ -1,0 +1,23 @@
+Modular Skatepark Assets
+------------------------
+PolyLabs LLC
+------------------------
+
+The Modular Skatepark Assets pack contains 3 sbsar files for your use
+-Concrete_01
+-WoodGrainDark
+-WoodGrainLight
+
+-Concrete_01
+------------
+This is a very basic sbsar that has only the basic drag in and drop functionality
+-This file type provides a very reduced file size perfect for keeping project sizes low
+
+
+-WoodGrainDark/WoodGrainLight
+----------------------------
+These Two sbsar files have a Slider called "Polish" that is intended to simulate the 
+polish a skatepark ramp may have. 0 results in no polish effect and 1 results in a 
+very polished effect.
+
+Feel free to email us at polylaboratory@gmail.com and we'll be happy to help!
